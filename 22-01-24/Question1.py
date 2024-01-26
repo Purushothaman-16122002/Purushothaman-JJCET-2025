@@ -29,3 +29,11 @@ Sample Output 1
 
 1432
 """
+# Read input
+N = int(input())
+
+# Reverse the number
+reversed_number = int(str(N)[::-1])
+
+# Print the reversed number
+print(reversed_number)

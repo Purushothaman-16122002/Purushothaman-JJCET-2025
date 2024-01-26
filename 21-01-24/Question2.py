@@ -33,3 +33,9 @@ Sample Output 0
 1
 1.33333333333
 """
+a = int(input())
+b = int(input())
+c = a//b
+print(c)
+d = a/b
+print(d)
